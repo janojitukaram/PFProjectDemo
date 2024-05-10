@@ -1,0 +1,17 @@
+<suite name="Suite">
+	<listeners>
+	<listener class-name="testngtestcases.Listeners"/>
+	</listeners>
+	<test name="TestModule1">
+		<classes>
+			<class name="testschecks.DataProviderTc" />
+		</classes>
+	</test> <!-- Test -->
+	<!--
+	<test name="TestModule2">
+		<classes>
+			<class name="testngtestcases.SecondClass" />
+		</classes>
+	</test>
+	-->
+</suite> <!-- Suite -->
