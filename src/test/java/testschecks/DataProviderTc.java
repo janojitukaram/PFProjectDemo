@@ -42,7 +42,7 @@ public class DataProviderTc {
 		
 		else if(a==1)
 		{
-			Assert.assertTrue(b>6);
+			Assert.assertTrue(b<6);
 		}
 		
 		else if(a==3)
