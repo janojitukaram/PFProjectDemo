@@ -1,9 +1,0 @@
-<suite name="Suite1">
-
-	<test name="Test1">
-	<!-- <parameter name="URL" value="https://omayo.blogspot.com/"/>  -->	
-		<classes>
-			<class name="Parameterconcept.TestNGParameterClass" />
-		</classes>
-	</test>
-</suite> 
